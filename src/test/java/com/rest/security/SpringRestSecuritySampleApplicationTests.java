@@ -1,4 +1,4 @@
-package com.rest.security.SpringRestSecuritySample;
+package com.rest.security;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
